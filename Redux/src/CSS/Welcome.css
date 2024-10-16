@@ -1,0 +1,26 @@
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #f8f9fa; /* Light background color */
+    color: #343a40; /* Dark text color */
+    text-align: center;
+  }
+  
+  .welcome-title {
+    font-size: 2.5rem; /* Large font size */
+    margin-bottom: 1rem; /* Space below title */
+  }
+  
+  .welcome-description {
+    font-size: 1.2rem; /* Smaller font size */
+    margin-bottom: 2rem; /* Space below description */
+  }
+  
+  .btn {
+    padding: 0.75rem 1.5rem; /* Button padding */
+    font-size: 1rem; /* Button font size */
+  }
+  
